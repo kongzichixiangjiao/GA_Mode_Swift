@@ -1,5 +1,4 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "64853fbf-aeb2-4662-bbc4-efd7c13e74ca++6340",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "64853fbf-aeb2-4662-bbc4-efd7c13e74ca++6340" : {
 
@@ -10,11 +9,11 @@
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "018D89BC-CF86-405C-AB9F-3134B95D393F",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "64853fbf-aeb2-4662-bbc4-efd7c13e74ca++6340" : "1.1.1\/"
+    "64853fbf-aeb2-4662-bbc4-efd7c13e74ca++6340" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "GA_Mode_Swift",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GA_Mode_Swift\/GA_Mode_Swift.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GA_Mode_Swift.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/123.56.107.200",
